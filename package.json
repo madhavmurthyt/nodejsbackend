@@ -1,0 +1,23 @@
+{
+  "name": "nodejsbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavmurthyt/nodejsbackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavmurthyt/nodejsbackend/issues"
+  },
+  "homepage": "https://github.com/madhavmurthyt/nodejsbackend#readme",
+  "keywords": [],
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
